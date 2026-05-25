@@ -6,6 +6,8 @@
 <meta name="description" content="Portfolio Ferdian Abdilah">
 <meta name="csrf-token" content="{{ csrf_token() }}">
 <title>Ferdian Abdilah - Portofolio</title>
+<link rel="icon" type="image/png" href="/logo.png?v=9999">
+        <link rel="shortcut icon" type="image/png" href="/logo.png?v=9999">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
@@ -500,7 +502,7 @@ footer{border-top:1px solid var(--border);padding:2.5rem 3rem;display:flex;justi
       </div>
     </div>
   </div>
-  <div class="scroll-hint">Scroll</div>
+  <!-- <div class="scroll-hint">Scroll</div> -->
 </section>
 
 <!-- MARQUEE -->
